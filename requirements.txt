@@ -1,9 +1,11 @@
 pypdf
-langchain
 torch
 accelerate
-bitsandbytes
 transformers
-sentence_transformers
-faiss_cpu
+langchain
 chainlit
+pandas
+tiktoken
+chromadb
+sentence_transformers
+InstructorEmbedding
